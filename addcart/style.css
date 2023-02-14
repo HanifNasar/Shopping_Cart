@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+.cart1{
+    float: right;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+button{
+    background-color: aquamarine;
+    padding: 5px 10px 5px 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: aquamarine;
+
+}
